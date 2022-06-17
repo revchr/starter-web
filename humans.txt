@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Revecca Christou revecca@git.training
 
 # THANKS
 
